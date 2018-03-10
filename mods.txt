@@ -1,0 +1,57 @@
+* Included Mods
+ - Vein Miner
+ - EnderIO
+ - NotEnoughItems
+ - Applied Energistics 2
+  - AE2 Stuff
+  - ExtraCells2
+ - IC2
+  - IC2 Nuclear Control
+ - Meckanism
+ - Botanio
+ - Mystical Agriculture 
+ - Ex Nihilo
+  - Ex Compressum
+ - Thaumcraft
+ - JourneyMap
+ - Storage Drawers
+ - The Twilight Forest
+ - Tinker's Construct 
+ - Iron Chests
+ - Extra Utilities
+ - Pam's HarvestCraft
+ - Immersive Engineering
+ - Mouse Tweaks 
+ - ComputerCraft
+ - RFTools
+ - Thermal Foundation
+  - Thermal Expansion
+ - Draconic Evolution
+ - Actually Additions
+  - ActuallyComputers
+ - Forestry
+  - More Bees
+  - Storage Drawers: Forestry Pack 
+  - Binnie's Mods
+ - Rustic
+ - Iron Backpacks
+ - Extreme Reactors  
+ - Environmental Tech
+ - GraveStone Mod
+ - Biomes O' Plenty
+ - OpenComputers
+ - DecoCraft2
+ - Waila 
+ - Platforms
+ - Soul Shards: The Old Ways
+ - AgriCraft
+ - Advanced Rocketry
+ - The Lost Cities
+ - ProjectE
+ - OpenModularTurrets
+ - Simple Achievements
+ - Nether Ores 
+ - The Deep Dark
+ - Hatchery 
+ - Chickens
+  - More Chickens 
