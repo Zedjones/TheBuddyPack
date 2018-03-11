@@ -71,3 +71,13 @@
   - [X] More Chickens
  - [X] Woot
  - [X] Astral Sorcery
+ - [X] Inventory Pets
+ - [X] Aether Legacy
+ - [X] Roguelike Dungeons
+ - [X] MineColonies
+ - [X] The Betweenlands
+ - [X] Terraqueous
+ - [X] Water Strainer
+ - [X] Animania
+  - [X] CraftStudio API
+ - [X] Extreme Reactors
