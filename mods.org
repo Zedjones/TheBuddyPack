@@ -1,42 +1,51 @@
 * Included Mods
  - Vein Miner
  - EnderIO
+  - EnderCore
  - NotEnoughItems
+  - CodeChickenCore
+  - CodeChickenLib
+  - JEI
  - Applied Energistics 2
   - AE2 Stuff
+   - BDLib
   - ExtraCells2
  - IC2
-  - IC2 Nuclear Control
- - Meckanism
- - Botanio
+ - Mekanism
+  - MCMultiPart
+ - Botania
+  - Baubles
  - Mystical Agriculture 
- - Ex Nihilo
+ - Ex Nihilo Ascendio
   - Ex Compressum
  - Thaumcraft
  - JourneyMap
  - Storage Drawers
- - The Twilight Forest
+  - Chameleon
  - Tinker's Construct 
+  - Mantle
  - Iron Chests
  - Extra Utilities
- - Pam's HarvestCraft
+ - Pam's HarvestCraft [!]
  - Immersive Engineering
  - Mouse Tweaks 
- - ComputerCraft
  - RFTools
+  - MCJtyLib
  - Thermal Foundation
+  - CoFH Core
   - Thermal Expansion
  - Draconic Evolution
+  - Brandon's Core
  - Actually Additions
   - ActuallyComputers
  - Forestry
   - More Bees
-  - Storage Drawers: Forestry Pack 
-  - Binnie's Mods
  - Rustic
  - Iron Backpacks
- - Extreme Reactors  
+ - Extreme Reactors 
+  - ZeroCore
  - Environmental Tech
+  - ValkyrieLib
  - GraveStone Mod
  - Biomes O' Plenty
  - OpenComputers
@@ -54,4 +63,5 @@
  - The Deep Dark
  - Hatchery 
  - Chickens
-  - More Chickens 
+  - More Chickens
+ - Woot 
