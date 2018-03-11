@@ -52,12 +52,17 @@
  - DecoCraft2
  - Waila 
  - Platforms
+  - ShetiPhianCore
  - Soul Shards: The Old Ways
- - AgriCraft
- - Advanced Rocketry
+ - AgriCraft [!]
+  - InfinityLib
+ - Advanced Rocketry [!]
+  - LibVulpes
  - The Lost Cities
+  - CompatLayer
  - ProjectE
  - OpenModularTurrets
+  - OMLib
  - Simple Achievements
  - Nether Ores 
  - The Deep Dark
@@ -65,3 +70,4 @@
  - Chickens
   - More Chickens
  - Woot 
+ - Astral Sorcery
