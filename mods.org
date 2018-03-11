@@ -1,73 +1,73 @@
 * Included Mods
- - Vein Miner
- - EnderIO
-  - EnderCore
- - NotEnoughItems
-  - CodeChickenCore
-  - CodeChickenLib
-  - JEI
- - Applied Energistics 2
-  - AE2 Stuff
-   - BDLib
-  - ExtraCells2
- - IC2
- - Mekanism
-  - MCMultiPart
- - Botania
-  - Baubles
- - Mystical Agriculture 
- - Ex Nihilo Ascendio
-  - Ex Compressum
- - Thaumcraft
- - JourneyMap
- - Storage Drawers
-  - Chameleon
- - Tinker's Construct 
-  - Mantle
- - Iron Chests
- - Extra Utilities
- - Pam's HarvestCraft [!]
- - Immersive Engineering
- - Mouse Tweaks 
- - RFTools
-  - MCJtyLib
- - Thermal Foundation
-  - CoFH Core
-  - Thermal Expansion
- - Draconic Evolution
-  - Brandon's Core
- - Actually Additions
-  - ActuallyComputers
- - Forestry
-  - More Bees
- - Rustic
- - Iron Backpacks
- - Extreme Reactors 
-  - ZeroCore
- - Environmental Tech
-  - ValkyrieLib
- - GraveStone Mod
- - Biomes O' Plenty
- - OpenComputers
- - DecoCraft2
- - Waila 
- - Platforms
-  - ShetiPhianCore
- - Soul Shards: The Old Ways
- - AgriCraft [!]
-  - InfinityLib
- - Advanced Rocketry [!]
-  - LibVulpes
- - The Lost Cities
-  - CompatLayer
- - ProjectE
- - OpenModularTurrets
-  - OMLib
- - Simple Achievements
- - Nether Ores 
- - The Deep Dark
- - Hatchery 
- - Chickens
-  - More Chickens
- - Woot 
- - Astral Sorcery
+ - [X] Vein Miner
+ - [X] EnderIO
+  - [X] EnderCore
+ - [X] NotEnoughItems
+  - [X] CodeChickenCore
+  - [X] CodeChickenLib
+  - [X] JEI
+ - [X] Applied Energistics 2
+  - [X] AE2 Stuff
+   - [X] BDLib
+  - [X] ExtraCells2
+ - [X] IC2
+ - [X] Mekanism
+  - [X] MCMultiPart
+ - [X] Botania
+  - [X] Baubles
+ - [X] Mystical Agriculture
+ - [X] Ex Nihilo Ascendio
+  - [X] Ex Compressum
+ - [X] Thaumcraft
+ - [X] JourneyMap
+ - [X] Storage Drawers
+  - [X] Chameleon
+ - [X] Tinker's Construct
+  - [X] Mantle
+ - [X] Iron Chests
+ - [X] Extra Utilities
+ - [X] Pam's HarvestCraft
+ - [X] Immersive Engineering
+ - [X] Mouse Tweaks
+ - [X] RFTools
+  - [X] MCJtyLib
+ - [X] Thermal Foundation
+  - [X] CoFH Core
+  - [X] Thermal Expansion
+ - [X] Draconic Evolution
+  - [X] Brandon's Core
+ - [X] Actually Additions
+  - [X] ActuallyComputers
+ - [X] Forestry
+  - [X] More Bees
+ - [X] Rustic
+ - [X] Iron Backpacks
+ - [X] Extreme Reactors
+  - [X] ZeroCore
+ - [X] Environmental Tech
+  - [X] ValkyrieLib
+ - [X] GraveStone Mod
+ - [X] Biomes O' Plenty
+ - [X] OpenComputers
+ - [X] DecoCraft2
+ - [X] Waila
+ - [X] Platforms
+  - [X] ShetiPhianCore
+ - [X] Soul Shards: The Old Ways
+ - [X] AgriCraft [!]
+  - [X] InfinityLib
+ - [X] Advanced Rocketry
+  - [X] LibVulpes
+ - [X] The Lost Cities
+  - [X] CompatLayer
+ - [X] ProjectE
+ - [X] OpenModularTurrets
+  - [X] OMLib
+ - [X] Simple Achievements
+ - [X] Nether Ores
+ - [X] The Deep Dark
+ - [X] Hatchery
+ - [X] Chickens
+  - [X] More Chickens
+ - [X] Woot
+ - [X] Astral Sorcery
