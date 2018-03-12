@@ -1,2 +1,4 @@
 thebuddypack-0.0.2.zip filter=lfs diff=lfs merge=lfs -text
 thebuddypack-server-0.0.2.zip filter=lfs diff=lfs merge=lfs -text
+thebuddypack-0.0.3.zip filter=lfs diff=lfs merge=lfs -text
+thebuddypack-server-0.0.3.zip filter=lfs diff=lfs merge=lfs -text
